@@ -4,7 +4,7 @@ Created on Feb 25, 2017
 @author: thrymr
 '''
 a = 6
-b = 4
+b = 9
 
 
 c = a + b
